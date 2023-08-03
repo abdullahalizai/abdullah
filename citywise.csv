@@ -28,7 +28,6 @@ Date,Location,Assets,Building,Floor,Spaces,Sub Spaces,Temp,Indoor Air Quality,As
 12-May,Dubai,Passive,2,2,2,3,46,1,46.0,6.00,Un Occupied
 13-May,Dubai,Passive,1,3,3,1,47,2,23.5,3.00,Occupied
 14-May,Dubai,Passive,4,3,2,3,48,4,12.0,9.00,Occupied
-15-May,Dubai,Passive,4,3,2,5,49,2,24.5,6.00,Occupied
 6-May,Dubai,Active,1,1,1,2,40,4,10.0,2.00,Occupied
 7-May,Dubai,Active,3,1,1,3,41,2,20.5,3.00,Occupied
 8-May,Dubai,Active,3,1,2,3,42,5,8.4,3.00,Occupied
